@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">LoginApp</string>
     <string name="password">password</string>
-    <string name="email_or_username">email_or_username</string>
+    <string name="email_or_username">email_ or _username</string>
     <string name="login">login</string>
     <string name="social_login">social_login</string>
 </resources>
